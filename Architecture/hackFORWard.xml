@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net" modified="2020-07-06T16:43:38.567Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="M1ZyCfdHPf-1LIorxdHn" version="13.3.9" type="github">
+  <diagram id="5lpRS8E6-E1xeOU2b5R0" name="HumanWellBeing">
+    <mxGraphModel dx="1002" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E_kfGcryls72feH3LIX8-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E_kfGcryls72feH3LIX8-1" target="E_kfGcryls72feH3LIX8-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_kfGcryls72feH3LIX8-1" value="Booking Tool - Microsoft Office 365" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_kfGcryls72feH3LIX8-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E_kfGcryls72feH3LIX8-2" target="E_kfGcryls72feH3LIX8-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_kfGcryls72feH3LIX8-2" value="Mobile App to Notify Schedule updates" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_kfGcryls72feH3LIX8-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E_kfGcryls72feH3LIX8-5" target="E_kfGcryls72feH3LIX8-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_kfGcryls72feH3LIX8-5" value="User Enters Facility" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_kfGcryls72feH3LIX8-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E_kfGcryls72feH3LIX8-7" target="E_kfGcryls72feH3LIX8-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_kfGcryls72feH3LIX8-7" value="Social Distancing Observed" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_kfGcryls72feH3LIX8-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E_kfGcryls72feH3LIX8-4" target="E_kfGcryls72feH3LIX8-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_kfGcryls72feH3LIX8-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_kfGcryls72feH3LIX8-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E_kfGcryls72feH3LIX8-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_kfGcryls72feH3LIX8-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E_kfGcryls72feH3LIX8-9" target="E_kfGcryls72feH3LIX8-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="490" />
+              <mxPoint x="730" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_kfGcryls72feH3LIX8-9" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E_kfGcryls72feH3LIX8-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E_kfGcryls72feH3LIX8-13" target="E_kfGcryls72feH3LIX8-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_kfGcryls72feH3LIX8-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="E_kfGcryls72feH3LIX8-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_kfGcryls72feH3LIX8-13" value="Alert User/Facility" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_kfGcryls72feH3LIX8-14" value="" style="shape=mxgraph.cisco.misc.tv;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top" parent="1" vertex="1">
+          <mxGeometry x="380" y="614" width="53" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="E_kfGcryls72feH3LIX8-19" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="597" y="550" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E_kfGcryls72feH3LIX8-20" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="670" y="465" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E_kfGcryls72feH3LIX8-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/eightyshades/512/29_Sound_alt-128.png;rotation=-180;" parent="1" vertex="1">
+          <mxGeometry x="376.5" y="510" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_kfGcryls72feH3LIX8-24" value="Increase Productivity using Social Distancing&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="213" y="110" width="425" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
