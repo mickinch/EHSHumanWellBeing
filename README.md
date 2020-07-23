@@ -33,3 +33,7 @@ Find heart based or sudden distress in human and ability to alert management and
 absolutely no person detection by name or image is stored. This is to avoid privacy and security concern for user.
 
 https://garagehackbox.azurewebsites.net/hackathons/2107/projects/89932
+
+## Code
+
+https://github.com/balakreshnan/sdd
