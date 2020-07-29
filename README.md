@@ -2,6 +2,10 @@
 
 Employee or People monitor for human well being - Custom Vision
 
+## Hackathon link
+
+https://garagehackbox.azurewebsites.net/hackathons/2107/projects/89932
+
 Given Covid 19 for now but it has been my life for past 4 years working from home or remote. It has been crazy hours of working and it has become hard to draw line between work and family. So my thought is how can i and all make it easier to improve health while working from home or remote. 
 
 Options:
@@ -32,8 +36,8 @@ Find heart based or sudden distress in human and ability to alert management and
 
 absolutely no person detection by name or image is stored. This is to avoid privacy and security concern for user.
 
-https://garagehackbox.azurewebsites.net/hackathons/2107/projects/89932
 
-## Code
 
-https://github.com/balakreshnan/sdd
+## Code and solution
+
+https://github.com/balakreshnan/sdd/blob/master/covidproject.md
